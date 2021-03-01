@@ -1,0 +1,15 @@
+---
+title: "about"
+author: "ma-haoran"
+date: "2021/3/1"
+output: html_document
+---
+
+
+This application is developed as part of the requirement for the Coursera Data Science Capstone Course. The goal of the project is to build a predictive text model combined with a shiny app UI that will predict the next word as the user types a sentence similar to the way most smart phone keyboards are implemented today using the technology of Swiftkey.
+
+
+The source codes for ui.R and server.R files are also available on the GitHub repo: [code](https://github.com/ma-haoran/nextword_prediction)
+
+Presentation Slide decks are available on the RPubs page: 
+[pitch](https://rpubs.com/ma-haoran/730694)
